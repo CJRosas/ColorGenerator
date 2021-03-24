@@ -7,7 +7,7 @@ This app is arguably simpler than its predecessor. Simply, open the app and tap 
 
 
 ## Who Would Want This?
-This app is great for people looking for randomly generated colors for phone backgrounds or instagram story backgrounds.
+This app is *great* for people looking for randomly generated colors for phone backgrounds or instagram story backgrounds.
 Its also generally useful for those looking for new colors or color inspirations for their own projects!
 
 
